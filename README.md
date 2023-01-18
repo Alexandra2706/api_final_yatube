@@ -4,9 +4,7 @@
 
 ```
 git clone <адрес>
-```
 
-```
 cd api_final_yatube
 ```
 
